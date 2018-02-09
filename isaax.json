@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "A simple web server using isaax",
   "main": "main.py",
-  "author": "",
+  "author": "yutashi",
   "language":"python",
   "license": "",
   "scripts": {
