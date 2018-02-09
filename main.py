@@ -9,5 +9,4 @@ def hello():
     return MESSAGE
 
 if __name__ == "__main__":
-    print(SOME_API_KEY)
     app.run(host='0.0.0.0', debug=True)
