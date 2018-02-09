@@ -1,7 +1,7 @@
 {
-  "name": "Pi server based on flask",
+  "name": "pi-server-isaax",
   "version": "0.0.0",
-  "description": "A simple web server using isaax",
+  "description": "A simple web server using isaax and flask",
   "main": "main.py",
   "author": "yutashi",
   "language":"python",
