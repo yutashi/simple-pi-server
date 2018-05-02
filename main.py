@@ -1,7 +1,7 @@
 from flask import Flask
 import os
 app = Flask(__name__)
-MESSAGE = os.getenv('MESSAGE', 'Cannot load the env')
+MESSAGE = os.getenv('MESSAGE', 'Couldn\'t load envs')
 SOME_API_KEY = os.getenv('SOME_API_KEY', None)
 
 @app.route("/")
